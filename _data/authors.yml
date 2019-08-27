@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Tim Bailey:
+  name: Tim Bailey
+  picture: /images/biophoto.jpg
+  twitter: "@btimbailey"
+  links:
+    - title: Twitter
+      url: https://twitter.com/timbailey
+      icon: fab fa-twitter-square
